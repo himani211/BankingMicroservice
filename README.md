@@ -1,6 +1,10 @@
-# BankingMicroservice
-# Project Overview
-# Setup and Installation Instructions
-# How to Build and Run the Application
-# Contributing Guidelines
-# License Information
+# Banking Microservice
+
+## Overview
+This project is a banking microservice built using Java and Maven.
+
+## Structure
+- `src/main/java`: Contains the main application code.
+- `src/test`: Contains unit tests.
+- `pom.xml`: Maven configuration file.
+- `docker-compose.yaml`: Docker configuration.
